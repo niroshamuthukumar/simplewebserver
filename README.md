@@ -36,28 +36,28 @@ content = """
                </tr>
                <tr>
                     <td>1</td>
-                    <td>Microsoft</td>
-                    <td>75 Billion</td>
+                    <td>Tata consultancy service</td>
+                    <td>55 Billion</td>
                </tr>
                <tr>
                     <td>2</td>
-                    <td>Oracle</td>
-                    <td>28.6 Billion</td>
+                    <td>infosys</td>
+                    <td>26.3 Billion</td>
                </tr>
                <tr>
                     <td>3</td>
-                    <td>IBM</td>
-                    <td> 25.1 Billion</td>
+                    <td>reliance</td>
+                    <td> 20.1 Billion</td>
                </tr>
                <tr>
                     <td>4</td>
-                    <td>SAP</td>
-                    <td>5.4 Billion</td>
+                    <td>hdfc</td>
+                    <td>4.5 Billion</td>
                </tr>
                <tr>
                     <td>5</td>
-                    <td>Syamtec</td>
-                    <td>5.6Billion</td>
+                    <td>wiproc</td>
+                    <td>2.3Billion</td>
                </tr> 
           </table>
      </body>
@@ -77,9 +77,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![alt text](<simple web server.png>) 
-
-![alt text](<simple web.png>)
+![alt text](<Screenshot 2024-04-05 100606.png>)
+![alt text](<Screenshot 2024-04-05 100512.png>)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
